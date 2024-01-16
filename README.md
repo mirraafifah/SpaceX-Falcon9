@@ -9,15 +9,15 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 - Train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
 ## Summary of methodologies
-Data Collection (API and Web scraping)
-Data Wrangling
-EDA (Exploratory Data Analysist) with SQL and Visualization (Python)
-Interactive Visual Analytics (Folium)
-Machine Learning Prediction
+- Data Collection (API and Web scraping)
+- Data Wrangling
+- EDA (Exploratory Data Analysist) with SQL and Visualization (Python)
+- Interactive Visual Analytics (Folium)
+- Machine Learning Prediction
 
 ## Summary of all results
-Result from EDA
-Dashboard (Ploty & Dash)
-Result from Predictive Analysist 
+- Result from EDA
+- Dashboard (Ploty & Dash)
+- Result from Predictive Analysist 
 
 
